@@ -1,0 +1,11 @@
+-----------UTMT:ADVANCED EDITION-----------
+
+WIP by TairKrytoi2025
+
+VERSIONS:
+
+
+
+0.2.1: 
+Added function NewVariables.csx
+Also with buttons(Copy selected, Close)
